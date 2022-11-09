@@ -1,0 +1,4 @@
+i = input("Please enter a integer: ")
+j = input("Please enter another integer: ")
+k = i + j
+print(k)
